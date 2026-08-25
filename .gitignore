@@ -1,0 +1,15 @@
+# Python
+.venv/
+.venv-1/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Uploaded files
+backend/uploads/
+
+# Environment variables
+.env
